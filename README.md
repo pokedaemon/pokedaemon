@@ -18,17 +18,16 @@ Hi 👋 My name is Roman
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+</p>  
+
+![pokedaemon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokedaemon&theme=onedark&show_icons=true&hide_border=true&layout=compact) 
+
 
 ---
 ### Badges
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/someuselessuser?theme=dark&font=Mate&ext=contest)
-![pokedaemon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokedaemon&theme=onedark&show_icons=true&hide_border=true&layout=compact) 
-
-
 ![pokedaemon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pokedaemon&theme=onedark&hide_border=true)
-![pokedaemon's Stats](https://github-readme-stats.vercel.app/api?username=pokedaemon&theme=onedark&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
