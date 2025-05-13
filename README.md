@@ -5,6 +5,7 @@ Hi 👋 My name is Roman
 * ✉️  You can contact me at [rootpokedaemon@google.com](mailto:rootpokedaemon@google.com), [telegram](https://t.me/pokedaemon)
 * 🧠  I'm learning Rust, CS, Math
 
+---
 ### Skills
 
 <p align="center">
@@ -20,6 +21,8 @@ Hi 👋 My name is Roman
 </p>
 
 ---
+### Badges
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/someuselessuser?theme=dark&font=Mate&ext=contest)  
 
 ---
