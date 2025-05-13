@@ -6,6 +6,7 @@ Hi 👋 My name is Roman
 * 🧠  I'm learning Rust, CS, Math
 
 ---
+
 ### Skills
 
 <p align="center">
@@ -20,14 +21,9 @@ Hi 👋 My name is Roman
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>  
 
-![pokedaemon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokedaemon&theme=onedark&show_icons=true&hide_border=true&layout=compact) 
-
-
 ---
-### Badges
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/someuselessuser?theme=dark&font=Mate&ext=contest)
-![pokedaemon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pokedaemon&theme=onedark&hide_border=true)
 
 ---
 
