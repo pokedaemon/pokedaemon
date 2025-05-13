@@ -3,7 +3,7 @@ Hi 👋 My name is Roman
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [rootpokedaemon@google.com](mailto:rootpokedaemon@google.com), [telegram](https://t.me/pokedaemon)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Rust, CS, Math
 
 ### Skills
 
